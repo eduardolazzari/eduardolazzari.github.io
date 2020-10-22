@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Eduardo Lazzari</title>
+    <link>/en/tags/</link>
+      <atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud59896bd891299f310196f12f23647cc_44842_512x512_fill_lanczos_center_2.png</url>
+      <title>Tags</title>
+      <link>/en/tags/</link>
+    </image>
+    
+  </channel>
+</rss>
